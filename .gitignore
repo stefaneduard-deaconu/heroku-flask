@@ -1,3 +1,6 @@
+venv/
+# the next one is used for keeping the heroku credentials
+var.env
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
